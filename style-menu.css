@@ -8,3 +8,11 @@ h1{
     font-size: 75px;
     text-shadow: 2px 2px 4px rgb(81, 81, 81);
 }
+
+.photo-canabis{
+  width: 500px;
+  position: absolute;
+  top: -160px; 
+  left: -160px;
+  transform: rotate(120deg);
+}
